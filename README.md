@@ -2,28 +2,6 @@
 
 An end-to-end **social media account recommendation system** that uses machine learning to suggest relevant accounts to follow based on interests, engagement patterns, and user behavior.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-React_Dashboard-00C7B7?style=for-the-badge)](https://socialmediarecommendationsystem.vercel.app)
-[![API Docs](https://img.shields.io/badge/📚_API_Docs-Swagger_UI-009688?style=for-the-badge)](https://social-media-recommendation-system-1.onrender.com/docs)
-[![Streamlit](https://img.shields.io/badge/📊_Analytics-Streamlit-FF4B4B?style=for-the-badge)](https://social-media-recommendation-system-srhj9xyjhbxkfs2wc6hi9w.streamlit.app/)
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikit-learn)
-
----
-
-## 📸 Screenshots
-
-### React Dashboard - Premium UI
-![React Dashboard](docs/images/react-dashboard-2.png)
-
-### User Analytics & AI Recommendations
-![React Dashboard Features](docs/images/react-dashboard-1.png)
-
-### Streamlit Analytics Dashboard
-![Streamlit Dashboard](docs/images/streamlit-dashboard.png)
-
 ---
 
 ## 🌐 Live Deployments
