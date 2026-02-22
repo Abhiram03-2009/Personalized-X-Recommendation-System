@@ -126,4 +126,4 @@ This project is deployed across three platforms:
 
 ---
 
-Built with ❤️ using Python, React & Machine Learning
+**Made by Abhiram Kaakarla**
